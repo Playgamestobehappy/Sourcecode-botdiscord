@@ -1,0 +1,6 @@
+Pynacl
+discord-py
+flask
+pytz
+yt-dlp
+ffmepg
