@@ -14,5 +14,12 @@ git
 
 and 
 git clone https://github.com/Playgamestobehappy/Sourcecode-botdiscord.git
+nano bot.py   ##and enter your bot token 
 
-and python3 
+ctrl + x
+y
+
+python3 bot.py
+
+✅️
+
