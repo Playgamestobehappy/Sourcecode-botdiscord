@@ -1,6 +1,18 @@
-pkg install proot-distro
+install proot-distro 
 
-proot-distro install debian #or ubuntu 
-proot-distro login debian
+and install debian on proot-distro
 
-git clone 
+and install
+python
+python-pip
+pynacl
+discord-py
+pytz
+yt-dlp
+ffmepg
+git
+
+and 
+git clone https://github.com/Playgamestobehappy/Sourcecode-botdiscord.git
+
+and python3 
